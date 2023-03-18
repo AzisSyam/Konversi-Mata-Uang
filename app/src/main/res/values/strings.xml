@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Aplikasi Konversi</string>
+    <string-array name="jenis_mata_uang">
+        <item android:textSize="20sp">USD</item>
+        <item android:textSize="20sp">JPY</item>
+    </string-array>
+</resources>
